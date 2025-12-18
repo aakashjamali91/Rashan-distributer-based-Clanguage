@@ -12,7 +12,10 @@ Software designed to manage disaster relief distribution efficiently, securely, 
      
 ⚙️ How to Run This SoftwareWe have made it very easy to run, even if you don't know how to code.✅ 
 Method 1: The Easy Way (Recommended)Use this method if you just want to use the software on your Windows computer.Download: Go to the https://github.com/aakashjamali91/Rashan-distributer-based-Clanguage section on the right side of this GitHub page.Get exe file open it but before click the exe. you need to download mingw or run this code into TURBO C.
-💻 Method 2: For Developers (Source Code)Use this method if you want to see the code or make changes.Prerequisites:A C++ Compiler (like MinGW).Graphics.h (WinBGIm) library installed.Steps:Download the Code: Click the green "Code" button above and select "Download ZIP".Extract: Unzip the folder to your computer.Important: Make sure the file logo.ico is inside the folder. The software needs this icon to launch.Compile & Run: Open main.cpp in Dev-C++ or VS Code and press Compile & Run.
+💻 Method 2: For Developers (Source Code)Use this method if you want to see the code or make changes.Prerequisites:A C Compiler (like MinGW).Graphics.h (WinBGIm) library installed.Steps:Download the Code: Click the green "Code" button above and select "Download ZIP".Extract: Unzip the folder to your computer.Important: Make sure the file logo.ico is inside the folder. The software needs this icon to launch.Compile & Run: Open main.cpp in Dev-C++ or VS Code and press Compile & Run.
+Make sure name it anythic.cpp, but basically its coded as C language because in C there are some graphics issues so use .cpp file.
+Login : admin
+Password: admin.
 Here are the Some Screenshots of Our projects.
 https://github.com/aakashjamali91/Rashan-distributer-based-Clanguage/issues/1#issue-3743342819
 DEV:AKASH.
