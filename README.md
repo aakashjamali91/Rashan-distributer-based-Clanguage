@@ -1,5 +1,5 @@
 # Rashan-distributer-based-Clanguage
-📦 Disaster Rashan DistributorA professional C++
+📦 Disaster Rashan DistributorA professional C
 Software designed to manage disaster relief distribution efficiently, securely, and transparently.
 📖 About The ProjectDisaster Rashan Distributor is a desktop application built to help NGOs and Government bodies manage the distribution of food and financial aid during disasters.Instead of using paper records, this software creates a secure Digital Ledger. It automatically decides who is eligible for aid based on their income and job status, ensuring that help reaches the people who need it most.
 🎯 PurposeThis project was developed as a Semester Project for the Programming Fundamentals course (BSCS-25F). The goal was to demonstrate how C++ and Graphics can be used to solve real-world problems like disaster management.
